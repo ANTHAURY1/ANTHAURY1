@@ -1,18 +1,9 @@
-- 👋 Hola, soy 👁️‍🗨️@ANTHAURY1🧿programador con un enfoque en el emprendimiento 🔱sobre desarrollo tecnológico 📲apasionado por el diseño y la tecnología. 💡♐
-- 👀 Estoy interesado en proyectos📓 relacionados con tecnología💻, ingeniería informática🖥️ y diseño🃏...
-- 🌱 Actualmente, estoy aprendiendo sobre el mantenimiento📟 de equipos informáticos y la gestión de proyectos de software...
-- 💞️ Estoy buscando colaborar en iniciativas que promuevan el uso de la tecnología💪🏼 para mejorar la educación 🧭y las oportunidades económicas en comunidades...
-- 📫 Puedes contactarme a través de este perfil🕯️o a mi correo electrónico [STIVENTORO9811@GMAIL.COM ]...
-- 🌐Me encanta experimentar con nuevos gadgets 📱y tecnologías emergentes en mi tiempo libre....
-
-
-
 
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center">Hi , I'm Olvadis<span style="color:orange;">[GhostRider]</span>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Stiven Toro<span style="color:orange;">[GhostRider]</span>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <img src="./banner.jpeg"/>
 </p>
