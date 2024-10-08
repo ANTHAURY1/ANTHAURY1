@@ -18,6 +18,11 @@
 - 🌐Me encanta experimentar con nuevos gadgets 📱y tecnologías emergentes en mi tiempo libre....
 
 
+
+# 🐉 About Me:
+🐉 About Me:<br>👋 Hola, soy Deyler Andrés Mena Varela<br>💻 Desarrollador especializado en:<br><br>Java ☕ | JavaScript 🌐 | Node.js 🚀 | React ⚛️ | Next.js ⚙️<br>🤖 Automatización con Puppeteer<br>🌱 Actualmente enfocado en proyectos de IA para la agricultura 🌾<br>🔧 Siempre buscando optimizar aplicaciones y aprender nuevas tecnologías.
+
+
 <!--Intro end-->
 
 <!--- stats & Trophy (start) -->
@@ -105,8 +110,7 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 🐉 About Me:
-🐉 About Me:<br>👋 Hola, soy Deyler Andrés Mena Varela<br>💻 Desarrollador especializado en:<br><br>Java ☕ | JavaScript 🌐 | Node.js 🚀 | React ⚛️ | Next.js ⚙️<br>🤖 Automatización con Puppeteer<br>🌱 Actualmente enfocado en proyectos de IA para la agricultura 🌾<br>🔧 Siempre buscando optimizar aplicaciones y aprender nuevas tecnologías.
+
 
 
 ## 🌐 Socials:
