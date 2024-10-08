@@ -19,16 +19,14 @@
 
 <!--Intro start-->
 
-- 🔭 I’m currently working on **Typescript, JavaScript, Java, C#, Spring Boot, React, Node.JS and ASP.NET**
+- 👋 Hola, soy 👁️‍🗨️@ANTHAURY1🧿programador con un enfoque en el emprendimiento 🔱sobre desarrollo tecnológico 📲apasionado por el diseño y la tecnología. 💡♐
+- 👀 Estoy interesado en proyectos📓 relacionados con tecnología💻, ingeniería informática🖥️ y diseño🃏...
+- 🌱 Actualmente, estoy aprendiendo sobre el mantenimiento📟 de equipos informáticos y la gestión de proyectos de software...
+- 💞️ Estoy buscando colaborar en iniciativas que promuevan el uso de la tecnología💪🏼 para mejorar la educación 🧭y las oportunidades económicas en comunidades...
+- 📫 Puedes contactarme a través de este perfil🕯️o a mi correo electrónico [STIVENTORO9811@GMAIL.COM ]...
+- 🌐Me encanta experimentar con nuevos gadgets 📱y tecnologías emergentes en mi tiempo libre....
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- ☁️ I've keen interest in developt .net apps. So,I'm learning **.Net Environment**
-
-
-- 📫 Feel free to reach me out **olvadis2004@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord – [olvadis](https://discordapp.com/users/1201649030103564321) my username!
 <!--Intro end-->
 
 <!--- stats & Trophy (start) -->
