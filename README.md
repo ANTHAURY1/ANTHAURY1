@@ -17,10 +17,7 @@
 - 📫 Puedes contactarme a través de este perfil🕯️o a mi correo electrónico [STIVENTORO9811@GMAIL.COM ]...
 - 🌐Me encanta experimentar con nuevos gadgets 📱y tecnologías emergentes en mi tiempo libre....
 
-
-
-# 🐉 About Me:
-🐉 About Me:<br>👋 Hola, soy Deyler Andrés Mena Varela<br>💻 Desarrollador especializado en:<br><br>Java ☕ | JavaScript 🌐 | Node.js 🚀 | React ⚛️ | Next.js ⚙️<br>🤖 Automatización con Puppeteer<br>🌱 Actualmente enfocado en proyectos de IA para la agricultura 🌾<br>🔧 Siempre buscando optimizar aplicaciones y aprender nuevas tecnologías.
+👋 💻 Desarrollador especializado en:<br><br>Java ☕ | JavaScript 🌐 | Node.js 🚀 | React ⚛️ | Next.js ⚙️<br>🤖 Automatización con Puppeteer<br>🌱 Actualmente enfocado en proyectos de IA para la agricultura 🌾<br>🔧 Siempre buscando optimizar aplicaciones y aprender nuevas tecnologías.
 
 
 <!--Intro end-->
@@ -32,27 +29,20 @@
 <tr border="none">
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ghostriderdev&theme=radical&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ANTHAURY1&theme=radical&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ghostriderdev&theme=radical&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GhostRiderDev&langs_count=5&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=donut"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ANTHAURY1&langs_count=5&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=donut"/>
 
   </td>
 </tr>
 </table>
 <!--- stats (end) -->
 
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=ghostriderdev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
 
 </p>        
 <!--- stats (end) -->
