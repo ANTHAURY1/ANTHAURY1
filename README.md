@@ -9,7 +9,7 @@
 </p>
 
 <!--Intro start-->
-
+# 🐉 About Me:
 - 👋 Hola, soy 👁️‍🗨️@ANTHAURY1🧿programador con un enfoque en el emprendimiento 🔱sobre desarrollo tecnológico 📲apasionado por el diseño y la tecnología. 💡♐
 - 👀 Estoy interesado en proyectos📓 relacionados con tecnología💻, ingeniería informática🖥️ y diseño🃏...
 - 🌱 Actualmente, estoy aprendiendo sobre el mantenimiento📟 de equipos informáticos y la gestión de proyectos de software...
