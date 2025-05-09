@@ -9,7 +9,7 @@
 </p>
 
 <!--Intro start-->
-# 🐉 About Me:
+# 👀 About Me:
 - 👋 Hola, soy 👁️‍🗨️@ANTHAURY1🧿programador con un enfoque en el emprendimiento 🔱sobre desarrollo tecnológico 📲apasionado por el diseño y la tecnología. 💡♐
 - 👀 Estoy interesado en proyectos📓 relacionados con tecnología💻, ingeniería informática🖥️ y diseño🃏...
 - 🌱 Actualmente, estoy aprendiendo sobre el mantenimiento📟 de equipos informáticos y la gestión de proyectos de software...
@@ -20,33 +20,6 @@
 👋 💻 Desarrollador especializado en:<br><br>Java ☕ | JavaScript 🌐 | Node.js 🚀 | React ⚛️ | Next.js ⚙️<br>🤖 Automatización con Puppeteer<br>🌱 Actualmente enfocado en proyectos de IA para la agricultura 🌾<br>🔧 Siempre buscando optimizar aplicaciones y aprender nuevas tecnologías.
 
 
-<!--Intro end-->
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ANTHAURY1&theme=radical&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ghostriderdev&theme=radical&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ANTHAURY1&langs_count=5&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=donut"/>
-
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-
-</p>        
-<!--- stats (end) -->
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -56,7 +29,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,java,cs,py,nodejs,spring,express,nest,react,dotnet,html,css,docker,postgres,prisma,cassandra,firebase,git,github,linux,mongodb,mysql,nextjs,postman,redux,tailwind,ghactions&perline=14" />
+    <img src="https://skillicons.dev/icons?i=js,react,html,cpp,vscode,discord,github,linux,mint,ubuntu,redhat,mysql,py,windows&perline=14" />
   </a>
 </p>
 
@@ -65,7 +38,7 @@
 **I'm a Night 🦉**
 
 ```text
-🌞 Morning    41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.65%
+🌞 Morning    41 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.65%
 🌆 Daytime    83 commits     ██████░░░░░░░░░░░░░░░░░░░   25.62%
 🌃 Evening    28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.64%
 🌙 Night      172 commits    ██████████████░░░░░░░░░░░   53.09%
